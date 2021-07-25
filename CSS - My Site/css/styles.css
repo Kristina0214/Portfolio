@@ -108,6 +108,15 @@ a:hover {
   background-color: #11999E;
 }
 
+.fa-check {
+  color: #71EFA3;
+}
+
+.my-skills {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 18px;
+}
+
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
